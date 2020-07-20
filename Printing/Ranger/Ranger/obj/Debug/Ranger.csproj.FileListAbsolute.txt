@@ -1,0 +1,10 @@
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\obj\Debug\Ranger.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\obj\Debug\Ranger.Form1.resources
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\obj\Debug\Ranger.Properties.Resources.resources
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\obj\Debug\Ranger.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\obj\Debug\Ranger.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\bin\Debug\Ranger.exe.config
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\bin\Debug\Ranger.exe
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\bin\Debug\Ranger.pdb
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\obj\Debug\Ranger.exe
+C:\Users\Dev\Desktop\Printing\Ranger\Ranger\obj\Debug\Ranger.pdb
